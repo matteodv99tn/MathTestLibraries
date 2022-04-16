@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/complex.hpp
+ostream
+-
+
+../include/linearalgebra.hpp
+
+/home/matteo/win/MathTestLibraries/main.cpp
+iostream
+-
+cstdio
+-
+complex.hpp
+/home/matteo/win/MathTestLibraries/complex.hpp
+linearalgebra.hpp
+/home/matteo/win/MathTestLibraries/linearalgebra.hpp
+

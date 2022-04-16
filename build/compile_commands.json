@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/matteo/win/MathTestLibraries/build",
+  "command": "/usr/bin/g++   -I/home/matteo/win/MathTestLibraries/include  -g   -std=gnu++17 -o CMakeFiles/mainEntry.dir/main.cpp.o -c /home/matteo/win/MathTestLibraries/main.cpp",
+  "file": "/home/matteo/win/MathTestLibraries/main.cpp"
+},
+{
+  "directory": "/home/matteo/win/MathTestLibraries/build",
+  "command": "/usr/bin/g++   -I/home/matteo/win/MathTestLibraries/include  -g   -std=gnu++17 -o CMakeFiles/mainEntry.dir/src/complex.cpp.o -c /home/matteo/win/MathTestLibraries/src/complex.cpp",
+  "file": "/home/matteo/win/MathTestLibraries/src/complex.cpp"
+},
+{
+  "directory": "/home/matteo/win/MathTestLibraries/build/tests",
+  "command": "/usr/bin/g++   -I/home/matteo/win/MathTestLibraries/tests/../include  -g   -std=gnu++17 -o CMakeFiles/catch2Test.dir/catch2Main.cpp.o -c /home/matteo/win/MathTestLibraries/tests/catch2Main.cpp",
+  "file": "/home/matteo/win/MathTestLibraries/tests/catch2Main.cpp"
+},
+{
+  "directory": "/home/matteo/win/MathTestLibraries/build/tests",
+  "command": "/usr/bin/g++   -I/home/matteo/win/MathTestLibraries/tests/../include  -g   -std=gnu++17 -o CMakeFiles/catch2Test.dir/test_complex.cpp.o -c /home/matteo/win/MathTestLibraries/tests/test_complex.cpp",
+  "file": "/home/matteo/win/MathTestLibraries/tests/test_complex.cpp"
+},
+{
+  "directory": "/home/matteo/win/MathTestLibraries/build/tests",
+  "command": "/usr/bin/g++   -I/home/matteo/win/MathTestLibraries/tests/../include  -g   -std=gnu++17 -o CMakeFiles/catch2Test.dir/__/src/complex.cpp.o -c /home/matteo/win/MathTestLibraries/src/complex.cpp",
+  "file": "/home/matteo/win/MathTestLibraries/src/complex.cpp"
+}
+]

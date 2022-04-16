@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/complex.hpp
+ostream
+-
+
+/home/matteo/win/MathTestLibraries/src/complex.cpp
+complex.hpp
+/home/matteo/win/MathTestLibraries/src/complex.hpp
+iostream
+-
+

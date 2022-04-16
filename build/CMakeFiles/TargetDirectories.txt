@@ -1,0 +1,6 @@
+/home/matteo/win/MathTestLibraries/build/CMakeFiles/rebuild_cache.dir
+/home/matteo/win/MathTestLibraries/build/CMakeFiles/edit_cache.dir
+/home/matteo/win/MathTestLibraries/build/CMakeFiles/mainEntry.dir
+/home/matteo/win/MathTestLibraries/build/tests/CMakeFiles/rebuild_cache.dir
+/home/matteo/win/MathTestLibraries/build/tests/CMakeFiles/edit_cache.dir
+/home/matteo/win/MathTestLibraries/build/tests/CMakeFiles/catch2Test.dir
